@@ -1,0 +1,5 @@
+name = input('hi 叫甚麼名字呢?')
+print('你好', name)
+h = input('身高?')
+w = input('體重?')
+print('已完成輸入，謝謝')
